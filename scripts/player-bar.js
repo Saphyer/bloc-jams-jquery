@@ -40,5 +40,4 @@
      $('#time-control .current-time').text(player.prettyTime (currentTime));
      $('#time-control input').val(percent);
   }, 1000);
-
 }
